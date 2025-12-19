@@ -19,7 +19,8 @@
   <a href="#-funcionalidades">Funcionalidades</a> •
   <a href="#-configuração-fácil">Como Configurar</a> •
   <a href="#-instalação-local">Instalação</a> •
-  <a href="#-deploy">Deploy</a>
+  <a href="#-deploy">Deploy</a> •
+  <a href="https://macedo-kayki.github.io/Romantic-Surprise-Template/" target="_blank">Preview</a>
 </p>
 
 ---
