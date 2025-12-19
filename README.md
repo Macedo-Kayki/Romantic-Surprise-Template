@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <a href="#-funcionalidades">Funcionalidades</a> •
-  <a href="#-configuração-fácil">Como Configurar</a> •
-  <a href="#-instalação-local">Instalação</a> •
-  <a href="#-deploy">Deploy</a>
+  <a href="#-funcionalidades">Funcionalidades</a> •
+  <a href="#-configuração-fácil">Como Configurar</a> •
+  <a href="#-instalação-local">Instalação</a> •
+  <a href="#-deploy">Deploy</a>
 </p>
 
 ---
