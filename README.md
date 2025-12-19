@@ -16,14 +16,13 @@
 </p>
 
 <p align="center">
-  <a href="#funcionalidades">Funcionalidades</a> •
-  <a href="#config">Como Configurar</a> •
-  <a href="#instalar">Instalação</a> •
-  <a href="#deploy">Deploy</a>
+  <a href="#-funcionalidades">Funcionalidades</a> •
+  <a href="#-configuração-fácil">Como Configurar</a> •
+  <a href="#-instalação-local">Instalação</a> •
+  <a href="#-deploy">Deploy</a>
 </p>
 
 ---
-<div id="funcionalidades"></div>
 ## ✨ Funcionalidades
 
 * ❤️ **Configuração via JSON:** Todo o conteúdo (textos, fotos, datas) é editável em um único arquivo.
@@ -76,7 +75,6 @@ Abaixo está a explicação de cada campo:
 ```
 ---
 
-<div id="instalar"></div>
 ## 🚀 Instalação Local
 
 > [!WARNING]
@@ -99,7 +97,6 @@ Depois, acesse `http://localhost:8000` no seu navegador.
 
 ---
 
-<div id="deploy"></div>
 ## ☁️ Deploy (Como colocar na internet)
 
 A maneira mais simples e gratuita é através da **[Vercel](https://vercel.com)**.
