@@ -33,7 +33,6 @@
 * 🎉 **Efeitos Especiais:** Corações flutuantes, Exibição de itens ao visualizar com fadein, Chuva de corações, animação de digitação e explosão de confetes.
 
 ---
-<div id="config"></div>
 ## 🛠 Configuração Fácil
 
 Você não precisa editar código complexo. Basta alterar o arquivo `config.json` na raiz do projeto.
