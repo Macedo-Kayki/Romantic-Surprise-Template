@@ -30,7 +30,7 @@
 * ⏳ **Contador de Tempo:** Calcula automaticamente há quanto tempo vocês estão juntos.
 * 📸 **Carrossel Infinito:** Uma faixa de memórias que se move suavemente.
 * 📱 **Mobile First:** Design responsivo com suporte a gestos e "toque para iniciar" (necessário para áudio no iPhone).
-* 🎉 **Efeitos Especiais:** Corações flutuantes, Exibição de itens ao visualizar com fadein, Chuva de corações, animação de digitação e explosão de confetes.
+* 🎉 **Efeitos Especiais:** Corações flutuantes, Exibição de itens com fadein ao visualizar, Chuva de corações, animação de digitação e explosão de confetes.
 
 ---
 ## 🛠 Configuração Fácil
