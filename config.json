@@ -1,0 +1,28 @@
+{
+  "title": "Feliz Aniversário Fulana!",
+  "titlePage": "1.9 da fulana",
+  "imagens": [
+    "./files/foto1.jpg",
+    "./files/foto2.jpg",
+    "./files/foto3.jpg"
+  ],
+  "dataInicio": "2025-11-29T00:00:00",
+  "tituloTexto": "Feliz Aniversário!",
+  "tempoInicial": 15,
+  "imgWidth": 400,
+  "initialVolume": 0.5,
+  "particleCount": 40,
+  "motivos": [
+    "Sua alegria contagiante",
+    "Sua risada contagiante",
+    "Sua personalidade incrível",
+    "A forma como você me entende",
+    "A maneira como você me faz sorrir"
+  ],
+  "spotifyImage": "./files/spotify.jfif",
+  "musicType": "audio/webm",
+  "audioSrc": "./files/planos.weba",
+  "destinatario": "Fulana ❤️",
+  "assinatura": "Com carinho, Fulano ❤️",
+  "cartaTexto": "Escreva seu texto aqui.<br><br>Pode pular linhas assim."
+}
