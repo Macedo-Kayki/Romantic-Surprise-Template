@@ -96,8 +96,9 @@ Depois, acesse `http://localhost:8000` no seu navegador.
 
 ---
 
-## ☁️ Deploy (Como colocar na internet)
-
+## ☁️ Deploy
+`(Como colocar na internet)`
+<br>
 A maneira mais simples e gratuita é através da **[Vercel](https://vercel.com)**.
 
 1.  Crie uma conta na **Vercel**.
